@@ -8,28 +8,28 @@
     {
       "month": 1,
       "day": 2,
-      "garbage": []
-    },
-    {
-      "month": 1,
-      "day": 3,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 1,
-      "day": 4,
+      "day": 3,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 1,
-      "day": 5,
+      "day": 4,
       "garbage": [
         "PAPER"
       ]
+    },
+    {
+      "month": 1,
+      "day": 5,
+      "garbage": []
     },
     {
       "month": 1,
@@ -47,30 +47,27 @@
     {
       "month": 1,
       "day": 8,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 1,
       "day": 9,
       "garbage": [
-        "GLASS"
+        "PLASTIC"
       ]
     },
     {
       "month": 1,
       "day": 10,
       "garbage": [
-        "PLASTIC"
+        "ORGANIC"
       ]
-
     },
     {
       "month": 1,
       "day": 11,
       "garbage": [
-        "ORGANIC"
+        "GLASS"
       ]
     },
     {
@@ -81,13 +78,15 @@
     {
       "month": 1,
       "day": 13,
-      "garbage": []
+      "garbage": [
+        "ORGANIC"
+      ]
     },
     {
       "month": 1,
       "day": 14,
       "garbage": [
-        "ORGANIC"
+        "DRY"
       ]
 
     },
@@ -99,67 +98,66 @@
     {
       "month": 1,
       "day": 16,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 1,
       "day": 17,
-      "garbage": [
-        "PLASTIC"
-      ]
-
-    },
-    {
-      "month": 1,
-      "day": 18,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 1,
-      "day": 19,
+      "day": 18,
       "garbage": [
         "PAPER"
       ]
     },
     {
       "month": 1,
-      "day": 20,
+      "day": 19,
       "garbage": []
     },
     {
       "month": 1,
-      "day": 21,
+      "day": 20,
       "garbage": [
         "ORGANIC"
       ]
+    },
+    {
+      "month": 1,
+      "day": 21,
+      "garbage": []
 
     },
     {
       "month": 1,
       "day": 22,
-      "garbage": [
-        "DRY"
-      ]
-    },
-    {
-      "month": 1,
-      "day": 23,
       "garbage": []
     },
     {
       "month": 1,
-      "day": 24,
+      "day": 23,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 1,
-      "day": 25,
+      "day": 24,
       "garbage": [
         "ORGANIC"
+      ]
+    },
+    {
+      "month": 1,
+      "day": 25,
+      "garbage": [
+        "GLASS"
       ]
     },
     {
@@ -170,15 +168,16 @@
     {
       "month": 1,
       "day": 27,
-      "garbage": []
+      "garbage": [
+        "ORGANIC"
+      ]
     },
     {
       "month": 1,
       "day": 28,
       "garbage": [
-        "ORGANIC"
+        "DRY"
       ]
-
     },
     {
       "month": 1,
@@ -189,67 +188,65 @@
       "month": 1,
       "day": 30,
       "garbage": [
-        "GLASS"
+        "PLASTIC"
       ]
     },
     {
       "month": 1,
       "day": 31,
       "garbage": [
-        "PLASTIC"
+        "ORGANIC"
       ]
     },
     {
       "month": 2,
       "day": 1,
       "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 2,
-      "day": 2,
-      "garbage": [
         "PAPER"
       ]
     },
     {
       "month": 2,
-      "day": 3,
+      "day": 2,
       "garbage": []
     },
     {
       "month": 2,
-      "day": 4,
+      "day": 3,
       "garbage": [
         "ORGANIC"
       ]
+    },
+    {
+      "month": 2,
+      "day": 4,
+      "garbage": []
 
     },
     {
       "month": 2,
       "day": 5,
-      "garbage": [
-        "DRY"
-      ]
-    },
-    {
-      "month": 2,
-      "day": 6,
       "garbage": []
     },
     {
       "month": 2,
-      "day": 7,
+      "day": 6,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 2,
-      "day": 8,
+      "day": 7,
       "garbage": [
         "ORGANIC"
+      ]
+    },
+    {
+      "month": 2,
+      "day": 8,
+      "garbage": [
+        "GLASS"
       ]
     },
     {
@@ -260,13 +257,15 @@
     {
       "month": 2,
       "day": 10,
-      "garbage": []
+      "garbage": [
+        "ORGANIC"
+      ]
     },
     {
       "month": 2,
       "day": 11,
       "garbage": [
-        "ORGANIC"
+        "DRY"
       ]
 
     },
@@ -278,68 +277,66 @@
     {
       "month": 2,
       "day": 13,
-      "garbage": []
-    },
-    {
-      "month": 2,
-      "day": 14,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 2,
-      "day": 15,
+      "day": 14,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 2,
-      "day": 16,
+      "day": 15,
       "garbage": [
         "PAPER"
       ]
     },
     {
       "month": 2,
-      "day": 17,
+      "day": 16,
       "garbage": []
     },
     {
       "month": 2,
-      "day": 18,
+      "day": 17,
       "garbage": [
         "ORGANIC"
       ]
+    },
+    {
+      "month": 2,
+      "day": 18,
+      "garbage": []
 
     },
     {
       "month": 2,
       "day": 19,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 2,
       "day": 20,
-      "garbage": [
-        "GLASS"
-      ]
-    },
-    {
-      "month": 2,
-      "day": 21,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 2,
-      "day": 22,
+      "day": 21,
       "garbage": [
         "ORGANIC"
+      ]
+    },
+    {
+      "month": 2,
+      "day": 22,
+      "garbage": [
+        "GLASS"
       ]
     },
     {
@@ -350,13 +347,15 @@
     {
       "month": 2,
       "day": 24,
-      "garbage": []
+      "garbage": [
+        "ORGANIC"
+      ]
     },
     {
       "month": 2,
       "day": 25,
       "garbage": [
-        "ORGANIC"
+        "DRY"
       ]
 
     },
@@ -368,27 +367,34 @@
     {
       "month": 2,
       "day": 27,
-      "garbage": []
-    },
-    {
-      "month": 2,
-      "day": 28,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
-      "month": 3,
-      "day": 1,
+      "month": 2,
+      "day": 28,
       "garbage": [
         "ORGANIC"
       ]
+    },
+{
+      "month": 2,
+      "day": 29,
+      "garbage": [
+        "PAPER"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 1,
+      "garbage": []
     },
     {
       "month": 3,
       "day": 2,
       "garbage": [
-        "PAPER"
+        "ORGANIC"
       ]
     },
     {
@@ -399,85 +405,85 @@
     {
       "month": 3,
       "day": 4,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
 
     },
     {
       "month": 3,
       "day": 5,
       "garbage": [
-        "DRY"
-      ]
-    },
-    {
-      "month": 3,
-      "day": 6,
-      "garbage": []
-    },
-    {
-      "month": 3,
-      "day": 7,
-      "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 3,
-      "day": 8,
+      "day": 6,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 3,
-      "day": 9,
-      "garbage": []
-    },
-    {
-      "month": 3,
-      "day": 10,
-      "garbage": []
-    },
-    {
-      "month": 3,
-      "day": 11,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 3,
-      "day": 12,
-      "garbage": []
-    },
-    {
-      "month": 3,
-      "day": 13,
+      "day": 7,
       "garbage": [
         "GLASS"
       ]
     },
     {
       "month": 3,
-      "day": 14,
-      "garbage": [
-        "PLASTIC"
-      ]
+      "day": 8,
+      "garbage": []
     },
     {
       "month": 3,
-      "day": 15,
+      "day": 9,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 3,
-      "day": 16,
+      "day": 10,
+      "garbage": [
+        "DRY"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 11,
+      "garbage": []
+    },
+    {
+      "month": 3,
+      "day": 12,
+      "garbage": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 13,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 14,
       "garbage": [
         "PAPER"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 15,
+      "garbage": []
+    },
+    {
+      "month": 3,
+      "day": 16,
+      "garbage": [
+        "ORGANIC"
       ]
     },
     {
@@ -488,82 +494,84 @@
     {
       "month": 3,
       "day": 18,
+      "garbage": []
+    },
+    {
+      "month": 3,
+      "day": 19,
+      "garbage": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 20,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 3,
-      "day": 19,
+      "day": 21,
+      "garbage": [
+        "GLASS"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 22,
+      "garbage": []
+    },
+    {
+      "month": 3,
+      "day": 23,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 24,
       "garbage": [
         "DRY"
       ]
     },
     {
       "month": 3,
-      "day": 20,
+      "day": 25,
       "garbage": []
     },
     {
       "month": 3,
-      "day": 21,
+      "day": 26,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 3,
-      "day": 22,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 3,
-      "day": 23,
-      "garbage": []
-    },
-    {
-      "month": 3,
-      "day": 24,
-      "garbage": []
-    },
-    {
-      "month": 3,
-      "day": 25,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 3,
-      "day": 26,
-      "garbage": []
-    },
-    {
-      "month": 3,
       "day": 27,
-      "garbage": []
+      "garbage": [
+        "ORGANIC"
+      ]
     },
     {
       "month": 3,
       "day": 28,
       "garbage": [
-        "PLASTIC"
+        "PAPER"
       ]
     },
     {
       "month": 3,
       "day": 29,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 3,
       "day": 30,
       "garbage": [
-        "PAPER"
+        "ORGANIC"
       ]
     },
     {
@@ -574,153 +582,155 @@
     {
       "month": 4,
       "day": 1,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 4,
       "day": 2,
       "garbage": [
-        "DRY"
+        "PLASTIC"
       ]
     },
     {
       "month": 4,
       "day": 3,
       "garbage": [
-        "GLASS"
+        "ORGANIC"
       ]
     },
     {
       "month": 4,
       "day": 4,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
       "month": 4,
       "day": 5,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 4,
       "day": 6,
-      "garbage": []
+      "garbage": [
+        "ORGANIC"
+      ]
     },
     {
       "month": 4,
       "day": 7,
-      "garbage": []
-    },
-    {
-      "month": 4,
-      "day": 8,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 4,
-      "day": 9,
-      "garbage": []
-    },
-    {
-      "month": 4,
-      "day": 10,
-      "garbage": []
-    },
-    {
-      "month": 4,
-      "day": 11,
-      "garbage": [
-        "PLASTIC"
-      ]
-    },
-    {
-      "month": 4,
-      "day": 12,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 4,
-      "day": 13,
-      "garbage": [
-        "PAPER"
-      ]
-    },
-    {
-      "month": 4,
-      "day": 14,
-      "garbage": []
-    },
-    {
-      "month": 4,
-      "day": 15,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 4,
-      "day": 16,
       "garbage": [
         "DRY"
       ]
     },
     {
       "month": 4,
-      "day": 17,
+      "day": 8,
       "garbage": []
     },
     {
       "month": 4,
-      "day": 18,
+      "day": 9,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 4,
-      "day": 19,
+      "day": 10,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 4,
-      "day": 20,
+      "day": 11,
+      "garbage": [
+        "PAPER"
+      ]
+    },
+    {
+      "month": 4,
+      "day": 12,
+      "garbage": []
+    },
+    {
+      "month": 4,
+      "day": 13,
+      "garbage": []
+    },
+    {
+      "month": 4,
+      "day": 14,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 4,
+      "day": 15,
+      "garbage": []
+    },
+    {
+      "month": 4,
+      "day": 16,
+      "garbage": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "month": 4,
+      "day": 17,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 4,
+      "day": 18,
       "garbage": [
         "GLASS"
       ]
     },
     {
       "month": 4,
-      "day": 21,
+      "day": 19,
       "garbage": []
     },
     {
       "month": 4,
-      "day": 22,
-      "garbage": []
-    },
-    {
-      "month": 4,
-      "day": 23,
+      "day": 20,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 4,
-      "day": 24,
+      "day": 21,
+      "garbage": [
+        "DRY"
+      ]
+    },
+    {
+      "month": 4,
+      "day": 22,
+      "garbage": [
+        "PAPER"
+      ]
+    },
+    {
+      "month": 4,
+      "day": 23,
       "garbage": [
         "PLASTIC"
+      ]
+    },
+    {
+      "month": 4,
+      "day": 24,
+      "garbage": [
+        "ORGANIC"
       ]
     },
     {
@@ -731,15 +741,13 @@
     {
       "month": 4,
       "day": 26,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 4,
       "day": 27,
       "garbage": [
-        "PAPER"
+        "ORGANIC"
       ]
     },
     {
@@ -758,7 +766,7 @@
       "month": 4,
       "day": 30,
       "garbage": [
-        "DRY"
+        "PLASTIC"
       ]
     },
     {
@@ -770,62 +778,64 @@
       "month": 5,
       "day": 2,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
       "month": 5,
       "day": 3,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 5,
       "day": 4,
-      "garbage": []
-    },
-    {
-      "month": 5,
-      "day": 5,
-      "garbage": []
-    },
-    {
-      "month": 5,
-      "day": 6,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 5,
+      "day": 5,
+      "garbage": [
+        "DRY"
+      ]
+    },
+    {
+      "month": 5,
+      "day": 6,
+      "garbage": []
+    },
+    {
+      "month": 5,
       "day": 7,
-      "garbage": []
-    },
-    {
-      "month": 5,
-      "day": 8,
-      "garbage": []
-    },
-    {
-      "month": 5,
-      "day": 9,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 5,
-      "day": 10,
+      "day": 8,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 5,
-      "day": 11,
+      "day": 9,
       "garbage": [
         "PAPER"
+      ]
+    },
+    {
+      "month": 5,
+      "day": 10,
+      "garbage": []
+    },
+    {
+      "month": 5,
+      "day": 11,
+      "garbage": [
+        "ORGANIC"
       ]
     },
     {
@@ -836,84 +846,84 @@
     {
       "month": 5,
       "day": 13,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 5,
       "day": 14,
       "garbage": [
-        "DRY"
+        "PLASTIC"
       ]
     },
     {
       "month": 5,
       "day": 15,
       "garbage": [
-        "GLASS"
+        "ORGANIC"
       ]
     },
     {
       "month": 5,
       "day": 16,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
       "month": 5,
       "day": 17,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 5,
       "day": 18,
-      "garbage": []
-    },
-    {
-      "month": 5,
-      "day": 19,
-      "garbage": []
-    },
-    {
-      "month": 5,
-      "day": 20,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 5,
+      "day": 19,
+      "garbage": [
+        "DRY"
+      ]
+    },
+    {
+      "month": 5,
+      "day": 20,
+      "garbage": []
+    },
+    {
+      "month": 5,
       "day": 21,
-      "garbage": []
-    },
-    {
-      "month": 5,
-      "day": 22,
-      "garbage": []
-    },
-    {
-      "month": 5,
-      "day": 23,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 5,
-      "day": 24,
+      "day": 22,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 5,
-      "day": 25,
+      "day": 23,
       "garbage": [
         "PAPER"
+      ]
+    },
+    {
+      "month": 5,
+      "day": 24,
+      "garbage": []
+    },
+    {
+      "month": 5,
+      "day": 25,
+      "garbage": [
+        "ORGANIC"
       ]
     },
     {
@@ -924,648 +934,650 @@
     {
       "month": 5,
       "day": 27,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 5,
-      "day": 28,
-      "garbage": [
-        "DRY"
-      ]
-    },
-    {
-      "month": 5,
-      "day": 29,
       "garbage": []
     },
     {
       "month": 5,
-      "day": 30,
+      "day": 28,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 5,
+      "day": 29,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 5,
+      "day": 30,
+      "garbage": [
+        "GLASS"
+      ]
+    },
+    {
+      "month": 5,
+      "day": 31,
+      "garbage": []
+    },
+    {
+      "month": 6,
+      "day": 1,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 2,
+      "garbage": []
+    },
+    {
+      "month": 6,
+      "day": 3,
+      "garbage": [
+        "DRY"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 4,
+      "garbage": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 5,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 6,
+      "garbage": [
+        "PAPER"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 7,
+      "garbage": []
+    },
+    {
+      "month": 6,
+      "day": 8,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 9,
+      "garbage": []
+    },
+    {
+      "month": 6,
+      "day": 10,
+      "garbage": []
+    },
+    {
+      "month": 6,
+      "day": 11,
+      "garbage": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 12,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 13,
+      "garbage": [
+        "GLASS"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 14,
+      "garbage": []
+    },
+    {
+      "month": 6,
+      "day": 15,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 16,
+      "garbage": [
+        "DRY"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 17,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 18,
+      "garbage": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 19,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 20,
+      "garbage": [
+        "PAPER"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 21,
+      "garbage": []
+    },
+    {
+      "month": 6,
+      "day": 22,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 23,
+      "garbage": [
+        "DRY"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 24,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 25,
+      "garbage": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 26,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 27,
+      "garbage": [
+        "GLASS"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 28,
+      "garbage": []
+    },
+    {
+      "month": 6,
+      "day": 29,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 6,
+      "day": 30,
+      "garbage": [
+        "DRY"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 1,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 2,
+      "garbage": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 3,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 4,
+      "garbage": [
+        "PAPER"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 5,
+      "garbage": []
+    },
+    {
+      "month": 7,
+      "day": 6,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 7,
+      "garbage": [
+        "DRY"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 8,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 9,
+      "garbage": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 10,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 11,
+      "garbage": [
+        "GLASS"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 12,
+      "garbage": []
+    },
+    {
+      "month": 7,
+      "day": 13,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 14,
+      "garbage": [
+        "DRY"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 15,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 16,
+      "garbage": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 17,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 18,
+      "garbage": [
+        "PAPER"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 19,
+      "garbage": []
+    },
+    {
+      "month": 7,
+      "day": 20,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 21,
+      "garbage": [
+        "DRY"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 22,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 23,
+      "garbage": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 24,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 25,
+      "garbage": [
+        "GLASS"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 26,
+      "garbage": []
+    },
+    {
+      "month": 7,
+      "day": 27,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 28,
+      "garbage": [
+        "DRY"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 29,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 7,
+      "day": 30,
+      "garbage": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "month": 7,
       "day": 31,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
-      "month": 6,
+      "month": 8,
       "day": 1,
-      "garbage": []
+      "garbage": [
+        "PAPER"
+      ]
     },
     {
-      "month": 6,
+      "month": 8,
       "day": 2,
       "garbage": []
     },
     {
-      "month": 6,
+      "month": 8,
       "day": 3,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
-      "month": 6,
-      "day": 4,
-      "garbage": []
-    },
-    {
-      "month": 6,
-      "day": 5,
-      "garbage": [
-        "GLASS"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 6,
-      "garbage": [
-        "PLASTIC"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 7,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 8,
-      "garbage": [
-        "PAPER"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 9,
-      "garbage": []
-    },
-    {
-      "month": 6,
-      "day": 10,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 11,
-      "garbage": [
-        "DRY"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 12,
-      "garbage": []
-    },
-    {
-      "month": 6,
-      "day": 13,
-      "garbage": [
-        "PLASTIC"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 14,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 15,
-      "garbage": []
-    },
-    {
-      "month": 6,
-      "day": 16,
-      "garbage": []
-    },
-    {
-      "month": 6,
-      "day": 17,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 18,
-      "garbage": [
-        "DRY"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 19,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 20,
-      "garbage": [
-        "PLASTIC"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 21,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 22,
-      "garbage": [
-        "PAPER"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 23,
-      "garbage": []
-    },
-    {
-      "month": 6,
-      "day": 24,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 25,
-      "garbage": [
-        "DRY"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 26,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 27,
-      "garbage": [
-        "PLASTIC"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 28,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 29,
-      "garbage": [
-        "GLASS"
-      ]
-    },
-    {
-      "month": 6,
-      "day": 30,
-      "garbage": []
-    },
-    {
-      "month": 7,
-      "day": 1,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 7,
-      "day": 2,
-      "garbage": [
-        "DRY"
-      ]
-    },
-    {
-      "month": 7,
-      "day": 3,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 7,
+      "month": 8,
       "day": 4,
       "garbage": [
-        "PLASTIC"
+        "DRY"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
       "day": 5,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
       "day": 6,
       "garbage": [
-        "PAPER"
+        "PLASTIC"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
       "day": 7,
-      "garbage": []
-    },
-    {
-      "month": 7,
-      "day": 8,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
-      "month": 7,
-      "day": 9,
+      "month": 8,
+      "day": 8,
       "garbage": [
-        "DRY"
+        "GLASS"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
+      "day": 9,
+      "garbage": []
+    },
+    {
+      "month": 8,
       "day": 10,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
       "day": 11,
-      "garbage": [
-        "PLASTIC"
-      ]
-    },
-    {
-      "month": 7,
-      "day": 12,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 7,
-      "day": 13,
-      "garbage": [
-        "GLASS"
-      ]
-    },
-    {
-      "month": 7,
-      "day": 14,
-      "garbage": []
-    },
-    {
-      "month": 7,
-      "day": 15,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 7,
-      "day": 16,
       "garbage": [
         "DRY"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
+      "day": 12,
+      "garbage": [
+        "PAPER"
+      ]
+    },
+    {
+      "month": 8,
+      "day": 13,
+      "garbage": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "month": 8,
+      "day": 14,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 8,
+      "day": 15,
+      "garbage": []
+    },
+    {
+      "month": 8,
+      "day": 16,
+      "garbage": []
+    },
+    {
+      "month": 8,
       "day": 17,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
       "day": 18,
       "garbage": [
-        "PLASTIC"
+        "DRY"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
       "day": 19,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
       "day": 20,
       "garbage": [
-        "PAPER"
+        "PLASTIC"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
       "day": 21,
-      "garbage": []
-    },
-    {
-      "month": 7,
-      "day": 22,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
-      "month": 7,
-      "day": 23,
+      "month": 8,
+      "day": 22,
       "garbage": [
-        "DRY"
+        "GLASS"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
+      "day": 23,
+      "garbage": []
+    },
+    {
+      "month": 8,
       "day": 24,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
       "day": 25,
       "garbage": [
-        "PLASTIC"
+        "DRY"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
       "day": 26,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
       "day": 27,
       "garbage": [
-        "GLASS"
+        "PLASTIC"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
       "day": 28,
-      "garbage": []
-    },
-    {
-      "month": 7,
-      "day": 29,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
-      "month": 7,
-      "day": 30,
+      "month": 8,
+      "day": 29,
       "garbage": [
-        "DRY"
+        "PAPER"
       ]
     },
     {
-      "month": 7,
+      "month": 8,
+      "day": 30,
+      "garbage": []
+    },
+    {
+      "month": 8,
       "day": 31,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
-      "month": 8,
-      "day": 1,
-      "garbage": [
-        "PLASTIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 2,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 3,
-      "garbage": [
-        "PAPER"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 4,
-      "garbage": []
-    },
-    {
-      "month": 8,
-      "day": 5,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 6,
-      "garbage": [
-        "DRY"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 7,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 8,
-      "garbage": [
-        "PLASTIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 9,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 10,
-      "garbage": [
-        "GLASS"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 11,
-      "garbage": []
-    },
-    {
-      "month": 8,
-      "day": 12,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 13,
-      "garbage": [
-        "DRY"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 14,
-      "garbage": [
-        "PLASTIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 15,
-      "garbage": []
-    },
-    {
-      "month": 8,
-      "day": 16,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 17,
-      "garbage": [
-        "PAPER"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 18,
-      "garbage": []
-    },
-    {
-      "month": 8,
-      "day": 19,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 20,
-      "garbage": [
-        "DRY"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 21,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 22,
-      "garbage": [
-        "PLASTIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 23,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 24,
-      "garbage": [
-        "GLASS"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 25,
-      "garbage": []
-    },
-    {
-      "month": 8,
-      "day": 26,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 27,
-      "garbage": [
-        "DRY"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 28,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 29,
-      "garbage": [
-        "PLASTIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 30,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 8,
-      "day": 31,
-      "garbage": [
-        "PAPER"
-      ]
-    },
-    {
       "month": 9,
       "day": 1,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     },
     {
       "month": 9,
@@ -1578,37 +1590,41 @@
       "month": 9,
       "day": 3,
       "garbage": [
-        "DRY"
-      ]
-    },
-    {
-      "month": 9,
-      "day": 4,
-      "garbage": []
-    },
-    {
-      "month": 9,
-      "day": 5,
-      "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 9,
-      "day": 6,
+      "day": 4,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 9,
-      "day": 7,
+      "day": 5,
+      "garbage": [
+        "GLASS"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 6,
       "garbage": []
     },
     {
       "month": 9,
+      "day": 7,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 9,
       "day": 8,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     },
     {
       "month": 9,
@@ -1621,35 +1637,33 @@
       "month": 9,
       "day": 10,
       "garbage": [
-        "DRY"
+        "PLASTIC"
       ]
     },
     {
       "month": 9,
       "day": 11,
       "garbage": [
-        "GLASS"
+        "ORGANIC"
       ]
     },
     {
       "month": 9,
       "day": 12,
       "garbage": [
-        "PLASTIC"
+        "PAPER"
       ]
     },
     {
       "month": 9,
       "day": 13,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 9,
       "day": 14,
       "garbage": [
-        "PAPER"
+        "ORGANIC"
       ]
     },
     {
@@ -1660,82 +1674,84 @@
     {
       "month": 9,
       "day": 16,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 9,
       "day": 17,
-      "garbage": []
-    },
-    {
-      "month": 9,
-      "day": 18,
-      "garbage": []
-    },
-    {
-      "month": 9,
-      "day": 19,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 9,
-      "day": 20,
+      "day": 18,
       "garbage": [
         "ORGANIC"
       ]
+    },
+    {
+      "month": 9,
+      "day": 19,
+      "garbage": [
+        "GLASS"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 20,
+      "garbage": []
     },
     {
       "month": 9,
       "day": 21,
-      "garbage": []
-    },
-    {
-      "month": 9,
-      "day": 22,
-      "garbage": []
-    },
-    {
-      "month": 9,
-      "day": 23,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 9,
-      "day": 24,
+      "day": 22,
       "garbage": [
         "DRY"
       ]
     },
     {
       "month": 9,
-      "day": 25,
+      "day": 23,
       "garbage": []
     },
     {
       "month": 9,
-      "day": 26,
+      "day": 24,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 9,
-      "day": 27,
+      "day": 25,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 9,
-      "day": 28,
+      "day": 26,
       "garbage": [
         "PAPER"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 27,
+      "garbage": []
+    },
+    {
+      "month": 9,
+      "day": 28,
+      "garbage": [
+        "ORGANIC"
       ]
     },
     {
@@ -1746,84 +1762,84 @@
     {
       "month": 9,
       "day": 30,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 10,
       "day": 1,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 10,
       "day": 2,
       "garbage": [
-        "GLASS"
+        "ORGANIC"
       ]
     },
     {
       "month": 10,
       "day": 3,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
       "month": 10,
       "day": 4,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 10,
       "day": 5,
-      "garbage": []
-    },
-    {
-      "month": 10,
-      "day": 6,
-      "garbage": []
-    },
-    {
-      "month": 10,
-      "day": 7,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 10,
-      "day": 8,
+      "day": 6,
       "garbage": [
         "DRY"
       ]
     },
     {
       "month": 10,
-      "day": 9,
+      "day": 7,
       "garbage": []
     },
     {
       "month": 10,
-      "day": 10,
+      "day": 8,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 10,
-      "day": 11,
+      "day": 9,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 10,
-      "day": 12,
+      "day": 10,
       "garbage": [
         "PAPER"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 11,
+      "garbage": []
+    },
+    {
+      "month": 10,
+      "day": 12,
+      "garbage": [
+        "ORGANIC"
       ]
     },
     {
@@ -1834,84 +1850,84 @@
     {
       "month": 10,
       "day": 14,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 10,
       "day": 15,
-      "garbage": []
-    },
-    {
-      "month": 10,
-      "day": 16,
-      "garbage": []
-    },
-    {
-      "month": 10,
-      "day": 17,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 10,
-      "day": 18,
+      "day": 16,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 10,
-      "day": 19,
-      "garbage": []
-    },
-    {
-      "month": 10,
-      "day": 20,
-      "garbage": []
-    },
-    {
-      "month": 10,
-      "day": 21,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 10,
-      "day": 22,
-      "garbage": [
-        "DRY"
-      ]
-    },
-    {
-      "month": 10,
-      "day": 23,
+      "day": 17,
       "garbage": [
         "GLASS"
       ]
     },
     {
       "month": 10,
-      "day": 24,
-      "garbage": [
-        "PLASTIC"
-      ]
+      "day": 18,
+      "garbage": []
     },
     {
       "month": 10,
-      "day": 25,
+      "day": 19,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 10,
-      "day": 26,
+      "day": 20,
+      "garbage": [
+        "DRY"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 21,
+      "garbage": []
+    },
+    {
+      "month": 10,
+      "day": 22,
+      "garbage": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 23,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 24,
       "garbage": [
         "PAPER"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 25,
+      "garbage": []
+    },
+    {
+      "month": 10,
+      "day": 26,
+      "garbage": [
+        "ORGANIC"
       ]
     },
     {
@@ -1922,25 +1938,27 @@
     {
       "month": 10,
       "day": 28,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 10,
       "day": 29,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 10,
       "day": 30,
-      "garbage": []
+      "garbage": [
+        "ORGANIC"
+      ]
     },
     {
       "month": 10,
       "day": 31,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
@@ -1958,46 +1976,46 @@
     {
       "month": 11,
       "day": 3,
-      "garbage": []
-    },
-    {
-      "month": 11,
-      "day": 4,
-      "garbage": [
-        "ORGANIC"
-      ]
-    },
-    {
-      "month": 11,
-      "day": 5,
       "garbage": [
         "DRY"
       ]
     },
     {
       "month": 11,
-      "day": 6,
+      "day": 4,
       "garbage": []
     },
     {
       "month": 11,
-      "day": 7,
+      "day": 5,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 11,
-      "day": 8,
+      "day": 6,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 11,
-      "day": 9,
+      "day": 7,
       "garbage": [
         "PAPER"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 8,
+      "garbage": []
+    },
+    {
+      "month": 11,
+      "day": 9,
+      "garbage": [
+        "ORGANIC"
       ]
     },
     {
@@ -2008,84 +2026,84 @@
     {
       "month": 11,
       "day": 11,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 11,
       "day": 12,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 11,
       "day": 13,
       "garbage": [
-        "GLASS"
+        "ORGANIC"
       ]
     },
     {
       "month": 11,
       "day": 14,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
       "month": 11,
       "day": 15,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 11,
       "day": 16,
-      "garbage": []
-    },
-    {
-      "month": 11,
-      "day": 17,
-      "garbage": []
-    },
-    {
-      "month": 11,
-      "day": 18,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 11,
-      "day": 19,
+      "day": 17,
       "garbage": [
         "DRY"
       ]
     },
     {
       "month": 11,
-      "day": 20,
+      "day": 18,
       "garbage": []
     },
     {
       "month": 11,
-      "day": 21,
+      "day": 19,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 11,
-      "day": 22,
+      "day": 20,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 11,
-      "day": 23,
+      "day": 21,
       "garbage": [
         "PAPER"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 22,
+      "garbage": []
+    },
+    {
+      "month": 11,
+      "day": 23,
+      "garbage": [
+        "ORGANIC"
       ]
     },
     {
@@ -2096,84 +2114,84 @@
     {
       "month": 11,
       "day": 25,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 11,
       "day": 26,
-      "garbage": []
-    },
-    {
-      "month": 11,
-      "day": 27,
-      "garbage": []
-    },
-    {
-      "month": 111,
-      "day": 28,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 11,
-      "day": 29,
+      "day": 27,
       "garbage": [
         "ORGANIC"
       ]
+    },
+    {
+      "month": 11,
+      "day": 28,
+      "garbage": [
+        "GLASS"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 29,
+      "garbage": []
     },
     {
       "month": 11,
       "day": 30,
-      "garbage": []
-    },
-    {
-      "month": 12,
-      "day": 1,
-      "garbage": []
-    },
-    {
-      "month": 12,
-      "day": 2,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 12,
-      "day": 3,
+      "day": 1,
       "garbage": [
         "DRY"
       ]
     },
     {
       "month": 12,
-      "day": 4,
-      "garbage": [
-        "GLASS"
-      ]
+      "day": 2,
+      "garbage": []
     },
     {
       "month": 12,
-      "day": 5,
+      "day": 3,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 12,
-      "day": 6,
+      "day": 4,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 12,
-      "day": 7,
+      "day": 5,
       "garbage": [
         "PAPER"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 6,
+      "garbage": []
+    },
+    {
+      "month": 12,
+      "day": 7,
+      "garbage": [
+        "ORGANIC"
       ]
     },
     {
@@ -2184,88 +2202,92 @@
     {
       "month": 12,
       "day": 9,
-      "garbage": [
-        "ORGANIC"
-      ]
+      "garbage": []
     },
     {
       "month": 12,
       "day": 10,
-      "garbage": []
-    },
-    {
-      "month": 12,
-      "day": 11,
-      "garbage": []
-    },
-    {
-      "month": 12,
-      "day": 12,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 12,
-      "day": 13,
+      "day": 11,
       "garbage": [
         "ORGANIC"
       ]
+    },
+    {
+      "month": 12,
+      "day": 12,
+      "garbage": [
+        "GLASS"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 13,
+      "garbage": []
     },
     {
       "month": 12,
       "day": 14,
-      "garbage": []
-    },
-    {
-      "month": 12,
-      "day": 15,
-      "garbage": []
-    },
-    {
-      "month": 12,
-      "day": 16,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 12,
-      "day": 17,
+      "day": 15,
       "garbage": [
         "DRY"
       ]
     },
     {
       "month": 12,
-      "day": 18,
+      "day": 16,
       "garbage": []
     },
     {
       "month": 12,
-      "day": 19,
+      "day": 17,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 12,
-      "day": 20,
+      "day": 18,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 12,
-      "day": 21,
+      "day": 19,
       "garbage": [
         "PAPER"
       ]
     },
     {
       "month": 12,
-      "day": 22,
+      "day": 20,
       "garbage": []
+    },
+    {
+      "month": 12,
+      "day": 21,
+      "garbage": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 22,
+      "garbage": [
+        "GLASS"
+      ]
     },
     {
       "month": 12,
@@ -2278,7 +2300,7 @@
       "month": 12,
       "day": 24,
       "garbage": [
-        "GLASS"
+        "PLASTIC"
       ]
     },
     {
@@ -2294,21 +2316,21 @@
     {
       "month": 12,
       "day": 27,
+      "garbage": []
+    },
+    {
+      "month": 12,
+      "day": 28,
       "garbage": [
         "ORGANIC"
       ]
     },
     {
       "month": 12,
-      "day": 28,
-      "garbage": [
-        "PLASTIC"
-      ]
-    },
-    {
-      "month": 12,
       "day": 29,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     },
     {
       "month": 12,
@@ -2321,7 +2343,7 @@
       "month": 12,
       "day": 31,
       "garbage": [
-        "DRY"
+        "PLASTIC"
       ]
     }
   ]

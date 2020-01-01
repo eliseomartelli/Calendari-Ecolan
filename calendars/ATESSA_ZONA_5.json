@@ -8,19 +8,21 @@
     {
       "month": 1,
       "day": 2,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 1,
       "day": 3,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     },
     {
       "month": 1,
       "day": 4,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 1,
@@ -35,20 +37,21 @@
     {
       "month": 1,
       "day": 7,
-      "garbage": [
-        "PAPER"
-      ]
+      "garbage": []
+
     },
     {
       "month": 1,
       "day": 8,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 1,
       "day": 9,
       "garbage": [
-        "PLASTIC"
+        "PAPER"
       ]
     },
     {
@@ -75,6 +78,7 @@
       "month": 1,
       "day": 14,
       "garbage": []
+
     },
     {
       "month": 1,
@@ -114,26 +118,26 @@
     {
       "month": 1,
       "day": 22,
-      "garbage": []
-    },
-    {
-      "month": 1,
-      "day": 23,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 1,
-      "day": 24,
+      "day": 23,
       "garbage": []
     },
     {
       "month": 1,
-      "day": 25,
+      "day": 24,
       "garbage": [
         "GLASS"
       ]
+    },
+    {
+      "month": 1,
+      "day": 25,
+      "garbage": []
     },
     {
       "month": 1,
@@ -149,6 +153,7 @@
       "month": 1,
       "day": 28,
       "garbage": []
+
     },
     {
       "month": 1,
@@ -163,14 +168,14 @@
     {
       "month": 1,
       "day": 31,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     },
     {
       "month": 2,
       "day": 1,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 2,
@@ -180,26 +185,27 @@
     {
       "month": 2,
       "day": 3,
-      "garbage": []
-    },
-    {
-      "month": 2,
-      "day": 4,
       "garbage": [
         "PAPER"
       ]
     },
     {
       "month": 2,
-      "day": 5,
+      "day": 4,
       "garbage": []
+
+    },
+    {
+      "month": 2,
+      "day": 5,
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 2,
       "day": 6,
-      "garbage": [
-        "PLASTIC"
-      ]
+      "garbage": []
     },
     {
       "month": 2,
@@ -264,26 +270,26 @@
     {
       "month": 2,
       "day": 19,
-      "garbage": []
-    },
-    {
-      "month": 2,
-      "day": 20,
       "garbage": [
         "PLASTIC"
       ]
     },
     {
       "month": 2,
-      "day": 21,
+      "day": 20,
       "garbage": []
     },
     {
       "month": 2,
-      "day": 22,
+      "day": 21,
       "garbage": [
         "GLASS"
       ]
+    },
+    {
+      "month": 2,
+      "day": 22,
+      "garbage": []
     },
     {
       "month": 2,
@@ -313,19 +319,26 @@
     {
       "month": 2,
       "day": 28,
+      "garbage": [
+        "DRY"
+      ]
+    },
+{
+      "month": 2,
+      "day": 29,
       "garbage": []
     },
     {
       "month": 3,
       "day": 1,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 3,
       "day": 2,
-      "garbage": []
+      "garbage": [
+        "PAPER"
+      ]
     },
     {
       "month": 3,
@@ -336,8 +349,9 @@
       "month": 3,
       "day": 4,
       "garbage": [
-        "PAPER"
+        "PLASTIC"
       ]
+
     },
     {
       "month": 3,
@@ -347,9 +361,7 @@
     {
       "month": 3,
       "day": 6,
-      "garbage": [
-        "PLASTIC"
-      ]
+      "garbage": []
     },
     {
       "month": 3,
@@ -409,7 +421,9 @@
     {
       "month": 3,
       "day": 18,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 3,
@@ -420,7 +434,7 @@
       "month": 3,
       "day": 20,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
@@ -431,9 +445,7 @@
     {
       "month": 3,
       "day": 22,
-      "garbage": [
-        "GLASS"
-      ]
+      "garbage": []
     },
     {
       "month": 3,
@@ -458,7 +470,9 @@
     {
       "month": 3,
       "day": 27,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     },
     {
       "month": 3,
@@ -468,14 +482,14 @@
     {
       "month": 3,
       "day": 29,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 3,
       "day": 30,
-      "garbage": []
+      "garbage": [
+        "PAPER"
+      ]
     },
     {
       "month": 3,
@@ -486,7 +500,7 @@
       "month": 4,
       "day": 1,
       "garbage": [
-        "PAPER"
+        "PLASTIC"
       ]
     },
     {
@@ -497,9 +511,7 @@
     {
       "month": 4,
       "day": 3,
-      "garbage": [
-        "PLASTIC"
-      ]
+      "garbage": []
     },
     {
       "month": 4,
@@ -559,7 +571,9 @@
     {
       "month": 4,
       "day": 15,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 4,
@@ -570,7 +584,7 @@
       "month": 4,
       "day": 17,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
@@ -581,9 +595,7 @@
     {
       "month": 4,
       "day": 19,
-      "garbage": [
-        "GLASS"
-      ]
+      "garbage": []
     },
     {
       "month": 4,
@@ -603,7 +615,9 @@
     {
       "month": 4,
       "day": 23,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     },
     {
       "month": 4,
@@ -618,14 +632,14 @@
     {
       "month": 4,
       "day": 26,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 4,
       "day": 27,
-      "garbage": []
+      "garbage": [
+        "PAPER"
+      ]
     },
     {
       "month": 4,
@@ -636,7 +650,7 @@
       "month": 4,
       "day": 29,
       "garbage": [
-        "PAPER"
+        "PLASTIC"
       ]
     },
     {
@@ -652,9 +666,7 @@
     {
       "month": 5,
       "day": 2,
-      "garbage": [
-        "PLASTIC"
-      ]
+      "garbage": []
     },
     {
       "month": 5,
@@ -709,7 +721,9 @@
     {
       "month": 5,
       "day": 13,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 5,
@@ -720,7 +734,7 @@
       "month": 5,
       "day": 15,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
@@ -731,9 +745,7 @@
     {
       "month": 5,
       "day": 17,
-      "garbage": [
-        "GLASS"
-      ]
+      "garbage": []
     },
     {
       "month": 5,
@@ -758,7 +770,9 @@
     {
       "month": 5,
       "day": 22,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     },
     {
       "month": 5,
@@ -768,14 +782,14 @@
     {
       "month": 5,
       "day": 24,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 5,
       "day": 25,
-      "garbage": []
+      "garbage": [
+        "PAPER"
+      ]
     },
     {
       "month": 5,
@@ -786,7 +800,7 @@
       "month": 5,
       "day": 27,
       "garbage": [
-        "PAPER"
+        "PLASTIC"
       ]
     },
     {
@@ -797,9 +811,7 @@
     {
       "month": 5,
       "day": 29,
-      "garbage": [
-        "PLASTIC"
-      ]
+      "garbage": []
     },
     {
       "month": 5,
@@ -859,7 +871,9 @@
     {
       "month": 6,
       "day": 10,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 6,
@@ -870,7 +884,7 @@
       "month": 6,
       "day": 12,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
@@ -881,9 +895,7 @@
     {
       "month": 6,
       "day": 14,
-      "garbage": [
-        "GLASS"
-      ]
+      "garbage": []
     },
     {
       "month": 6,
@@ -908,7 +920,9 @@
     {
       "month": 6,
       "day": 19,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     },
     {
       "month": 6,
@@ -918,14 +932,14 @@
     {
       "month": 6,
       "day": 21,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 6,
       "day": 22,
-      "garbage": []
+      "garbage": [
+        "PAPER"
+      ]
     },
     {
       "month": 6,
@@ -936,7 +950,7 @@
       "month": 6,
       "day": 24,
       "garbage": [
-        "PAPER"
+        "PLASTIC"
       ]
     },
     {
@@ -947,9 +961,7 @@
     {
       "month": 6,
       "day": 26,
-      "garbage": [
-        "PLASTIC"
-      ]
+      "garbage": []
     },
     {
       "month": 6,
@@ -1009,7 +1021,9 @@
     {
       "month": 7,
       "day": 8,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 7,
@@ -1020,7 +1034,7 @@
       "month": 7,
       "day": 10,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
@@ -1031,9 +1045,7 @@
     {
       "month": 7,
       "day": 12,
-      "garbage": [
-        "GLASS"
-      ]
+      "garbage": []
     },
     {
       "month": 7,
@@ -1058,7 +1070,9 @@
     {
       "month": 7,
       "day": 17,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     },
     {
       "month": 7,
@@ -1068,14 +1082,14 @@
     {
       "month": 7,
       "day": 19,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 7,
       "day": 20,
-      "garbage": []
+      "garbage": [
+        "PAPER"
+      ]
     },
     {
       "month": 7,
@@ -1086,7 +1100,7 @@
       "month": 7,
       "day": 22,
       "garbage": [
-        "PAPER"
+        "PLASTIC"
       ]
     },
     {
@@ -1097,9 +1111,7 @@
     {
       "month": 7,
       "day": 24,
-      "garbage": [
-        "PLASTIC"
-      ]
+      "garbage": []
     },
     {
       "month": 7,
@@ -1159,7 +1171,9 @@
     {
       "month": 8,
       "day": 5,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 8,
@@ -1170,7 +1184,7 @@
       "month": 8,
       "day": 7,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
@@ -1181,9 +1195,7 @@
     {
       "month": 8,
       "day": 9,
-      "garbage": [
-        "GLASS"
-      ]
+      "garbage": []
     },
     {
       "month": 8,
@@ -1203,7 +1215,9 @@
     {
       "month": 8,
       "day": 13,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     },
     {
       "month": 8,
@@ -1218,14 +1232,14 @@
     {
       "month": 8,
       "day": 16,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 8,
       "day": 17,
-      "garbage": []
+      "garbage": [
+        "PAPER"
+      ]
     },
     {
       "month": 8,
@@ -1236,7 +1250,7 @@
       "month": 8,
       "day": 19,
       "garbage": [
-        "PAPER"
+        "PLASTIC"
       ]
     },
     {
@@ -1247,9 +1261,7 @@
     {
       "month": 8,
       "day": 21,
-      "garbage": [
-        "PLASTIC"
-      ]
+      "garbage": []
     },
     {
       "month": 8,
@@ -1309,7 +1321,9 @@
     {
       "month": 9,
       "day": 2,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 9,
@@ -1320,7 +1334,7 @@
       "month": 9,
       "day": 4,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
@@ -1331,9 +1345,7 @@
     {
       "month": 9,
       "day": 6,
-      "garbage": [
-        "GLASS"
-      ]
+      "garbage": []
     },
     {
       "month": 9,
@@ -1358,7 +1370,9 @@
     {
       "month": 9,
       "day": 11,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     },
     {
       "month": 9,
@@ -1368,14 +1382,14 @@
     {
       "month": 9,
       "day": 13,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 9,
       "day": 14,
-      "garbage": []
+      "garbage": [
+        "PAPER"
+      ]
     },
     {
       "month": 9,
@@ -1386,7 +1400,7 @@
       "month": 9,
       "day": 16,
       "garbage": [
-        "PAPER"
+        "PLASTIC"
       ]
     },
     {
@@ -1397,9 +1411,7 @@
     {
       "month": 9,
       "day": 18,
-      "garbage": [
-        "PLASTIC"
-      ]
+      "garbage": []
     },
     {
       "month": 9,
@@ -1459,7 +1471,9 @@
     {
       "month": 9,
       "day": 30,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 10,
@@ -1470,7 +1484,7 @@
       "month": 10,
       "day": 2,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
@@ -1481,9 +1495,7 @@
     {
       "month": 10,
       "day": 4,
-      "garbage": [
-        "GLASS"
-      ]
+      "garbage": []
     },
     {
       "month": 10,
@@ -1508,7 +1520,9 @@
     {
       "month": 10,
       "day": 9,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     },
     {
       "month": 10,
@@ -1518,14 +1532,14 @@
     {
       "month": 10,
       "day": 11,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 10,
       "day": 12,
-      "garbage": []
+      "garbage": [
+        "PAPER"
+      ]
     },
     {
       "month": 10,
@@ -1536,7 +1550,7 @@
       "month": 10,
       "day": 14,
       "garbage": [
-        "PAPER"
+        "PLASTIC"
       ]
     },
     {
@@ -1547,9 +1561,7 @@
     {
       "month": 10,
       "day": 16,
-      "garbage": [
-        "PLASTIC"
-      ]
+      "garbage": []
     },
     {
       "month": 10,
@@ -1609,7 +1621,9 @@
     {
       "month": 10,
       "day": 28,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 10,
@@ -1620,15 +1634,13 @@
       "month": 10,
       "day": 30,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
       "month": 10,
       "day": 31,
-      "garbage": [
-        "GLASS"
-      ]
+      "garbage": []
     },
     {
       "month": 11,
@@ -1670,14 +1682,14 @@
     {
       "month": 11,
       "day": 8,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 11,
       "day": 9,
-      "garbage": []
+      "garbage": [
+        "PAPER"
+      ]
     },
     {
       "month": 11,
@@ -1688,7 +1700,7 @@
       "month": 11,
       "day": 11,
       "garbage": [
-        "PAPER"
+        "PLASTIC"
       ]
     },
     {
@@ -1699,9 +1711,7 @@
     {
       "month": 11,
       "day": 13,
-      "garbage": [
-        "PLASTIC"
-      ]
+      "garbage": []
     },
     {
       "month": 11,
@@ -1761,7 +1771,9 @@
     {
       "month": 11,
       "day": 25,
-      "garbage": []
+      "garbage": [
+        "PLASTIC"
+      ]
     },
     {
       "month": 11,
@@ -1772,7 +1784,7 @@
       "month": 11,
       "day": 27,
       "garbage": [
-        "PLASTIC"
+        "GLASS"
       ]
     },
     {
@@ -1783,9 +1795,7 @@
     {
       "month": 11,
       "day": 29,
-      "garbage": [
-        "GLASS"
-      ]
+      "garbage": []
     },
     {
       "month": 11,
@@ -1810,7 +1820,9 @@
     {
       "month": 12,
       "day": 4,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     },
     {
       "month": 12,
@@ -1820,9 +1832,7 @@
     {
       "month": 12,
       "day": 6,
-      "garbage": [
-        "DRY"
-      ]
+      "garbage": []
     },
     {
       "month": 12,
@@ -1838,20 +1848,20 @@
       "month": 12,
       "day": 9,
       "garbage": [
-        "PAPER"
+        "PLASTIC"
       ]
     },
     {
       "month": 12,
       "day": 10,
-      "garbage": []
+      "garbage": [
+        "PAPER"
+      ]
     },
     {
       "month": 12,
       "day": 11,
-      "garbage": [
-        "PLASTIC"
-      ]
+      "garbage": []
     },
     {
       "month": 12,
@@ -1918,7 +1928,9 @@
     {
       "month": 12,
       "day": 24,
-      "garbage": []
+      "garbage": [
+        "GLASS"
+      ]
     },
     {
       "month": 12,
@@ -1933,9 +1945,7 @@
     {
       "month": 12,
       "day": 27,
-      "garbage": [
-        "GLASS"
-      ]
+      "garbage": []
     },
     {
       "month": 12,
@@ -1955,7 +1965,9 @@
     {
       "month": 12,
       "day": 31,
-      "garbage": []
+      "garbage": [
+        "DRY"
+      ]
     }
   ]
 }
