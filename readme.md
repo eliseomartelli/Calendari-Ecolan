@@ -1,6 +1,6 @@
 # Ecolan Calendar Data
 
-Dati dei calendari di Ecolan per l'anno 2019 estratti dall'app ufficiale per Android.
+Dati dei calendari di Ecolan per l'anno 2021 estratti dall'app ufficiale per Android.
 
 ## Esempio Sensore Home Assistant
 
